@@ -10,3 +10,4 @@ C:\Users\mathe\Documents\Repos\Unit-Testing-DotNet\Calculations\Calculations\obj
 C:\Users\mathe\Documents\Repos\Unit-Testing-DotNet\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
 C:\Users\mathe\Documents\Repos\Unit-Testing-DotNet\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
 C:\Users\mathe\Documents\Repos\Unit-Testing-DotNet\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache
+C:\Users\mathe\Documents\Repos\Unit-Testing-DotNet\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
